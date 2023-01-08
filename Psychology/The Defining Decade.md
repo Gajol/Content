@@ -1,13 +1,13 @@
-# The Defining Decade 
+# The Defining Decade
 
-Mhy Your 20's Matter & How to Make the Most of Them 
+Mhy Your 20's Matter & How to Make the Most of Them
 
 - Author: Meg Jay
 - Book Title: [*Jay, Meg. The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now. First revised trade paperback edition. New York: Twelve, 2021*](https://worldcat.org/en/title/1241709696).
 
 # Summary
 
-The book provides insights into the challenges modern young adults in their 20's face.  The epilogue sums it up the best: There is no formula for a good life.  There is no right and wrong. 
+The book provides insights into the challenges modern young adults in their 20's face.  The epilogue sums it up the best: There is no formula for a good life.  There is no right and wrong.
 
 > __Am I going to make it?__
 >
@@ -15,13 +15,13 @@ The book provides insights into the challenges modern young adults in their 20's
 
 The author, [Meg Jay](https://megjay.com/about/), wrote this book to help people in their 20's.  The author identifies that changing world, expectations and pressures on people in their 20's and relates their concerns.   There is life guidance in terms being deliberate in your choices.   Meg's Ted Talk, [Why 30 is not the new 20](https://www.ted.com/talks/meg_jay_why_30_is_not_the_new_20), is famous for framing contemporary twentysomethings journey into adulthood.
 
-The twenties are important for many reasons.  In their 20's: 
+The twenties are important for many reasons.  In their 20's:
 
 - 80% of person's defining moments occur
 - A person's earning power is defined in the first 10 years of work
-- Half the people get married 
+- Half the people get married
 - A person brain changes the most
-- A person's personality changes the most 
+- A person's personality changes the most
 - A person's social network is at its biggest
 - A person experiences the most uncertain years
 
@@ -42,7 +42,7 @@ Essential questions are being asked during this time:
 
 The book discusses three main areas, Work, Life and Mind & Body.   Several tools (12 tools) are provided, as well as 12 useful "learning questions".   Homework [^Homework] is assigned on topics relating to the major areas.
 
-The book ends with the author providing a story relating to anxiety about "Will Things Work out For Me".  She describes her starting on a hike in a national park and being worried about whether she would make it or not; and wondering if she should embark on the journey.  She asks the park ranger, "Am I going to make it?".  "I don't know, you have haven't decided yet" is the response. 
+The book ends with the author providing a story relating to anxiety about "Will Things Work out For Me".  She describes her starting on a hike in a national park and being worried about whether she would make it or not; and wondering if she should embark on the journey.  She asks the park ranger, "Am I going to make it?".  "I don't know, you have haven't decided yet" is the response.
 
 # Work
 
@@ -120,7 +120,7 @@ How to approach a weak tie for help:
 Unthought unknowns refer to:
 
 - the things we know about ourselves but forgot
-- the dreams we lost sight of 
+- the dreams we lost sight of
 - the truths we sense but don't say out loud
 
 We fear what the unthought unknowns means and what we should do next.   Our fear (and anxiety) is that making a choice will lead to hard work, failure and heart break.
@@ -161,7 +161,7 @@ The key driver to these negative effects is *Upwards Social Comparison* — "com
 > *Happiness is when you think and what you do are in harmony.* — Mahatma Gandhi (Philosopher)
 
 - realize your potential is a function of your gifts and limitations
-- scramling for ideals: alienated about ourselves & world 
+- scramling for ideals: alienated about ourselves & world
 - search for glory: "should do...", "supposed to ...".  "Should" are a <u>false dichotomy</u> between meeting an ideal or being a failure.
 
 Goals: Goals lead us from within.  Goals are like authentic dreams.
@@ -183,7 +183,7 @@ Distinctiveness is a fundamental part of identity:
   - what are for? (being against something is easy)
   - claim something
 
-The book describes a story about a person who is in search of their next opportunity with their interest in riding a custom bike.  The concept of a bike being a set of standard parts and an iterative process to add customizations is paralleled to the means with which we can customize our life. 
+The book describes a story about a person who is in search of their next opportunity with their interest in riding a custom bike.  The concept of a bike being a set of standard parts and an iterative process to add customizations is paralleled to the means with which we can customize our life.
 
 - standard parts: education, start career (can iterate through standard parts, too)
 - custom parts: jobs, experiences, skills, improvements, choices (iterate!!)
@@ -192,25 +192,25 @@ Claim a Story:  Claim a good story.  Who you are.  What you want.
 
 ## Good Story
 
-Claim a story: 
+Claim a story:
 
 - that is about your interests and talents.   
 - that is a narrative you can bring to interviews and dates
 - that balances complexity and cohesion
   - balances: communication and reasoning is bettern than originality and creativity in the story
   - complexity: if the story is too simple, the story will seem inexperienced and lacking
-  - cohesion: diagnostic, provide the past, present  and future. 
+  - cohesion: diagnostic, provide the past, present  and future.
 
 You have to take action, make choices.  Debating isn't going to get you anywhere.  This aligns with the book *Think Fast, Think Slow* which advises one to take calculated risks more often.  When choices have a probability of having a positive contribution, then the more often we make these choices, the better we will be.
 
-# Love 
+# Love
 
 In 1950's the average age of marriage was 20 and 22 for women and men respectively.  This has risen to 28 and 30 in 2020.   In the 50's marriage was a stepping stone to adulthood.  In 2020, marriage is a "capstone".
 
 The reasons for this are:
 
 - decrease in religion
-- increase in student debt 
+- increase in student debt
 - increase in economic uncertainty
 - increase in non-traditional partnership
 - being vocal and ambitious about work is admired
@@ -274,7 +274,7 @@ Effects of cohabitation:
 Cohabitation after engagement:
 
 - better communication
-- high levels of committment 
+- high levels of committment
 - greater marital stability
 - explicit and matching levels of commitment, with thoughtful mutual decision making.  This leads to more satisfied and faithful relationships.
 
@@ -329,7 +329,7 @@ Psychology says that good partners are:
 A partnership generally has two eras; before kids & after kids.  Partnerships and negotiation:
 
 - foundational issues
-- discuss what type of partner you would like to be 
+- discuss what type of partner you would like to be
   - ask each other
   - ask yourself
 - thoughtfulness conversations; takes times (have 1 of the following 29 conversations over a month)
@@ -409,7 +409,7 @@ Brain
 - brain development reflects the evolutionary areas of the human brain.   The brain develops from bottom to top, and from back to front.   
 - Emotional Brain: The oldest parts of the brain are at the base of the brain (near the spine).  This part of the brain is the animal propensities, *the emotional brain*.  This part controls breathing, senses, emotions, sex, pleasure, sleep, hunger and thirst.
 
-The frontal lobe is the most forward part of the brain. 
+The frontal lobe is the most forward part of the brain.
 
 - this is the most recent part of evolution
 - *executive functioning center*
@@ -424,7 +424,7 @@ The frontal lobe is the most forward part of the brain.
 Brain development timeline:
 
 - 1 ½ years (18 months): brains first growth spurt.  Overproduction of neurons
-- 20 years: Brain stops growing 
+- 20 years: Brain stops growing
 - 20-30 years: frontal lobe finishes "wiring up"
 - 100,000,000 neurons in brain.   1,000 connections/neuron
 
@@ -442,7 +442,7 @@ The brain:
 - has plasticity
 - responds to environment and experience
 
-Wiring Up in 20's:  The 20's is a time of great risk and great opportunity.   You should use your brain in your 20's. 
+Wiring Up in 20's:  The 20's is a time of great risk and great opportunity.   You should use your brain in your 20's.
 
 - jobs
 - experiences
@@ -477,7 +477,7 @@ Shallow:  Internet:  shallow, click to next
 
 Deep: Give a subject sustained attention
 
-Anxiety:  Leading mental health issue of the 20's 
+Anxiety:  Leading mental health issue of the 20's
 
 - socially inadequate
 - socially incompetent
@@ -500,7 +500,7 @@ The office is a different culture from school.  There is no freshman class or co
 - you must work awhile before being thanked or promoted
 - dress code
 - typos matter
-- sick days matter 
+- sick days matter
 - low confidence since doing *underemployed* roles
 
 20's are full of "flash bulb" memories, that remain vivid throughout life:
@@ -632,7 +632,7 @@ Social Investment Theory (see Theories for more information)
 - working towards these things makes us happer
 - goals: make you happier & healthier
 
-Setting goals leads to: 
+Setting goals leads to:
 
 - greater purpose
 - greater mastery
@@ -697,11 +697,11 @@ Present Bias: Prioritizing rewards and consequences of the here-and-now over the
 
 # Epilogue
 
-Preparedness: *Mountains don't care!" — Rocky Mountain National Park 
+Preparedness: *Mountains don't care!" — Rocky Mountain National Park
 
 Choices and consequences.
 
-There is no formula for a good life.  There is no right and wrong. 
+There is no formula for a good life.  There is no right and wrong.
 
 > __Am I going to make it?__
 >
@@ -741,7 +741,7 @@ You are deciding your life right now:
 - How can you reach out to them?
 - List three (3) times weak ties have helped you.  Why do you think they helped you?
 
-### The Unthought Known 
+### The Unthought Known
 
 - What whould you tell yourself about what you want to do with your life?
 - When you were yonger what did you want to do when you grew up?
@@ -937,4 +937,4 @@ Growth mindset practices:
 
 Bill Gates: Bill Gates is a believer in continual learning, and a growth mindset. *A growth mindset as the foundation and drive to stay curious and keep learning, says Gates, will help prepare students for immense changes that will take place in health care and climate change.*
 
-[^Choice-Paradox]: The theory you are describing is known as the "paradox of choice." It suggests that having too many options can actually decrease overall satisfaction and lead to decision paralysis. This idea is often attributed to the psychologist Barry Schwartz, who wrote a book on the topic called "The Paradox of Choice: Why More Is Less." In the book, Schwartz argues that having too many choices can lead to increased anxiety, regret, and frustration, especially when the choices are complex or involve significant trade-offs. He suggests that simplifying choices and limiting the number of options available can lead to greater satisfaction and well-being.
+[^Choice-Paradox]: The Paradox of Choice theory  suggests that having too many options can actually decrease overall satisfaction and lead to decision paralysis. This idea is often attributed to the psychologist Barry Schwartz, who wrote a book on the topic called "The Paradox of Choice: Why More Is Less." In the book, Schwartz argues that having too many choices can lead to increased anxiety, regret, and frustration, especially when the choices are complex or involve significant trade-offs. He suggests that simplifying choices and limiting the number of options available can lead to greater satisfaction and well-being.

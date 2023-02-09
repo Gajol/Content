@@ -1,6 +1,9 @@
 
 
 # Profitec (Germany)
+
+## 2021-06
+
 https://www.profitec-espresso.com/en/home.html
 https://wholelattelove.ca/products/profitec-pro-300-dual-boiler-espresso-machine
 $2,300

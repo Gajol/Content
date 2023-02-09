@@ -4,9 +4,9 @@
 
 # Summary
 
+This book discusses the power of questions and the benefits of asking questions from a learning perspective.   The author helps you assess the choices in questions through a choice map, how to recognize and accept judger-personality types, and how to use questions to switch into learning dailogues.
 
-
-
+Several tools (12 tools) are provided, as well as 12 useful "learning questions".   Homework [^Homework] is assigned on topics relating to the major areas.
 
 ## 12 Tools
 
@@ -69,7 +69,7 @@ Learner / Judger Mindset Chart:
 | Possibilities seen as limited     | Possibilities seen as unlimited  |
 | Primary stance: protective        | Primary stance: curious          |
 
-## 12 Questions
+## 12 Questions for Success
 
 1. What do I want?
 2. What assumptions am I making?

@@ -6,6 +6,8 @@
 
 ## Systems 
 
+In lay-terms, the human has two systems in the brain, System 1 and System 2.   Understanding the behaviour of the two systems can help people understand human behaviour and their decision making.
+
 | System 1                                                     | System 2                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | causal connections (sucks at statistical facts) - satisfying sense of causation (versus lack thereof in statistical sampling).  Not prone to doubt. |                                                              |
@@ -13,7 +15,7 @@
 | Good at computing averages, but poorly with sums.  Example, Exxon, value of saving x, 10x, 100x birds all had same $100 value. | Deliberate Memory Search (Active Thinking)                   |
 | Intensity Matching : converting emotion to $$, crime to punishment or sound intensity. | Complex computations, Comparisons, Planning and Choice       |
 |                                                              | Self-Criticism                                               |
-|                                                              | Attitudes (apologist - not a critic, endorser - not an enforcer).  Search for information and arguments is constrained to information that is consistent with existing beliefs. "undemanding" |
+|                                                              | Attitudes (apologist - not a critic, endorser - not an enforcer).  Search for information and arguments is constrained to information that is consistent with existing beliefs (searching for a cause). "undemanding" |
 
 # Part 2: Heuristics and Biases
 
@@ -31,7 +33,7 @@ Priming research indicates that our thoughts and our behaviour are influenced (m
 
 ## Science of Availability
 
-Availability Heuristic: 1971 definition: the process of judging frequency by "the ease with which instances come to mind."
+**Availability Heuristic**: 1971 definition: the process of judging frequency by "the ease with which instances come to mind."
 
 Unknowns in 1971:
 
@@ -60,9 +62,9 @@ A focus on content is a System 2 heuristic (which replaces System 1 when more en
 
 Our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed.  
 
-affect heuristic: People make judgments and decisions by consulting their emotions.  Do I like it?  Do I hate it?  The affect heuristic is a substitution form where an easier question (like / hate) is used to answer a much harder question.   The affect heuristic simplifies our lives by creating a world that is much tidier than reality.
+**affect heuristic**: People make judgments and decisions by consulting their emotions.  Do I like it?  Do I hate it?  The affect heuristic is a substitution form where an easier question (like / hate) is used to answer a much harder question.   The affect heuristic simplifies our lives by creating a world that is much tidier than reality.
 
-availability cascade: [^sunstein] Availability is a self-sustaining chain of events.  (media report of a minor event, to public panic, to large-scale government action.)
+**availability cascade**: [^sunstein] Availability is a self-sustaining chain of events.  (media report of a minor event, to public panic, to large-scale government action.)
 
 ### Risk
 
@@ -70,7 +72,7 @@ availability cascade: [^sunstein] Availability is a self-sustaining chain of eve
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Availability Cascades: distort priorities in the allocation of public resources | affect heuristic                                             |
 | Proposes mechanism to isolte dcision makers from public pressures.  Allowing the allocation of resources to be based on impartial experts who have a view of all risks and the resources available to reduce them | Less trust in the experts and more trust with the public.   Believes the public would reject policies form isolated/insulated experts (insulated from the public emotions) — an impossible situation in a democracy. |
-|                                                              | Policy makers must endeavor to protect the public from fear<sub>emotion</sub> (not only real dangers) |
+|                                                              | Policy makers must endeavour to protect the public from fear<sub>emotion</sub> (not only real dangers) |
 |                                                              | Public resistant to decisions made by unelected or unaccountable experts. |
 
 ## Representativeness & Logic
@@ -82,6 +84,8 @@ The conflict between the intuition of representativeness and the logic of probab
 ## Less is More 
 
 - People incorrectly provide more value to a set of {10 valuable things}, than to a set of { 10 valuable things, and 3 invaluable things }.   Less is more.  The lower valued items affect the value of the whole.  Hence, less is more.
+  - Example:  When selling a collection of things, it is best to exclude in the set any damaged or partial items.   Including the damaged items lowers the perceived value of the set being sold.
+
 
 ## Causes Trump Statistics
 
@@ -697,6 +701,8 @@ Unrelated to the thinking.  Simply words I am not familiar with using:
 
 - [ Martin Seligman](): founder of positive psychology
 
+- [Richard](https://en.wikipedia.org/wiki/Richard_Thaler) Thaler - Nobel Prize in Economics for individual decision making and behavioural economics
+
 ### Economist
 
 - [Howard Kunreuth](https://en.wikipedia.org/wiki/Howard_Kunreuther): American [economist](https://en.wikipedia.org/wiki/Economist) focusing on the study of risk insurance. Phd from MIT. managing and financing losses due to technological and natural hazards such as climate change, terrorism, earthquakes.  Research Guiding Principles for Insurance, The Behavioural Risk Audit, Interdependent Security.  How the dynamics of memory help explain the recurrent cycles of disaster, concern and complacency.
@@ -784,3 +790,4 @@ Social movements of  the 20th century; Hitler, Stalin, Mao Zedong
 
 - DEI : Diversity, Equity and Inclusion:  Understanding the theory and science behind biases.
 - Influence: Understand use perspectives and help understand reference points for decision making and organizational improvement.
+- 

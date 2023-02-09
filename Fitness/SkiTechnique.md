@@ -5,11 +5,12 @@
 
 |technique - Canada|technique - USA|Description|Use|
 |--|--|--|--|
-|Offset|V1|Low, squatty body position. Feet in wider stance.  Skis in stronger V-angle (changes with steepness).  Arms and polling is assymmetrical (although Europe is teach symmetry). 3:1 timing - [2-skis/1-pole] at same time, then 1-ski.   |Most Powerful, Least efficient.   For when going slow (slow snow, uphill)|
+|Offset|V1|Low, squatty body position. Feet in wider stance.  Skis in stronger V-angle (changes with steepness).  Arms and polling is asymmetrical (although Europe is teach symmetry). 3:1 timing - [2-skis/1-pole] at same time, then 1-ski.   |Most Powerful, Least efficient.   For when going slow (slow snow, uphill)|
 |One Skate|V2|Pole each leg push.  Ski Down -> Torso-up/poles-up -> pole|Most advanced.  Requires the best balance|
-|Two Skate|V2 Alternate|Box-drill.  Similar poling action as One Skate, but only polling on one kick.   AKA ["Russian Dance"](https://www.youtube.com/watch?v=i2vfnmRfYCk) with "swing and pole".  "Swing" is arm recovery during off-leg kick, "Pole" is on the pole-kick leg. [Stomp foot down then bring hands forward](https://youtu.be/i2vfnmRfYCk?t=73).  Down-push with both legs equally.|Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
+|Two Skate|V2 Alternate|Box-drill.  Similar poling action as One Skate, but only polling on one kick.   AKA ["Russian Dance"](https://www.youtube.com/watch?v=i2vfnmRfYCk) with "swing and pole".  "Swing" is arm recovery during off-leg kick, "Pole" is on the pole-kick leg. [Stomp foot down then bring hands forward](https://youtu.be/i2vfnmRfYCk?t=73).  Down-push with both legs equally.   <br />Stomp:  Put the foot down (get over the ski and balance) on the way when the hands are coming up.   Drill:  [Do hand movements without poles](https://youtu.be/i2vfnmRfYCk?t=115)|Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
 
 [Nordic Ski Lab - 5 Techniques](https://www.youtube.com/watch?v=QEJnPtrtri4).  In order of power to speed (more glide is you move down list)
+
 1. Diagonal Skate
 1. Offset (V1)
 1. One Skate (V2)
@@ -34,7 +35,8 @@ Offset (V1) Drills
 - used to cross widest range of terrain
 - __symmetrical technique__ : double pole on every leg push
 - most versatile technique for good skiing (cross widest range of terrain)
-- for flat and rolling terrain for beginner / less-skiled skiers  
+- for flat and rolling terrain for beginner / less-skiled skiers 
+- hands recover in same timing with legs: tips for quicker hand-recover are shorter pole push, quicker recovery at end of pole push (similar to C2 rowing recovery, and keep hands close to body and bend elbows on recovery)  - Video: [Nordic Ski Lab - Timing for One-Skate](https://youtu.be/S47I-3gjzzg)
 
 Drills:
 - [V4](https://youtu.be/bnFM5x6jYxo?t=86) - pole twice on each-side.  Land on flat ski, good ankle flexiion, foward hip drive
@@ -49,7 +51,7 @@ Drills:
   2. the skiers body extends to a taller position as the ski glides, then
   3. the poling starts as the [pole transition from the glide to the leg push](https://youtu.be/QEJnPtrtri4?t=328)
 - mistake: beginners commonly overuse two-skate or homemade-offset on terrain where they could be using one-skate (but they feel like they are skiing to fast to pole with every leg push)
-  - problem has to do with their balnace and how their balance.   Beginners [sway-body](https://youtu.be/QEJnPtrtri4?t=362).  They are falling off the supporting ski before they have a chance to get the poles back to the front-position (feel rushed).  
+  - problem has to do with their balance and how their balance.   Beginners [sway-body](https://youtu.be/QEJnPtrtri4?t=362).  They are falling off the supporting ski before they have a chance to get the poles back to the front-position (feel rushed).  
 
   Concentrate on the [symmetrical technique when learning](https://youtu.be/QEJnPtrtri4?t=390).  Start with diagonal before offset.  Start with:
   - Diagonal
@@ -62,7 +64,7 @@ Drills:
   - beginner friendly (no need to push with poles, can stay low to help with balance), can use arms to simulate jogging, etc.
 
 Skate Skiing Basics
-- [Skating Skiing Getting Started](https://www.youtube.com/watch?v=5WVLk5suruI).  Upright body, bend your knees, knee over a __flat__ ski, project body foward.  Good description of [kick and how it is different from ice-skating](https://youtu.be/5WVLk5suruI?t=163)
+- [Skating Skiing Getting Started](https://www.youtube.com/watch?v=5WVLk5suruI).  Upright body, bend your knees, knee over a __flat__ ski, project body forward.  Good description of [kick and how it is different from ice-skating](https://youtu.be/5WVLk5suruI?t=163)
 
 
 Classic Skiing
@@ -76,3 +78,9 @@ Beginner Drill (Nordic Ski Club) V2 / One Skate
 https://www.youtube.com/watch?v=-yr0YtQ_UDQ&ab_channel=NordicSkiLab
 Drills
  https://www.youtube.com/watch?v=7ZqtGqD1zOo&ab_channel=NordicSkiLab
+
+### Adviice from Guy @ Gatineau 2023-01
+
+Offsset: Poling.  Land with pole vertical near toe.   Elbows follow pole.
+
+Ankles need to be flexed.   He demonstrated that my bum was sticking out.

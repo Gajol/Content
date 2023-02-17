@@ -477,7 +477,7 @@ Focusing Illusion: *Nothing in life is as important as you think it is when you 
 Thoughts of Future:
 
 - Biases: What can be done about biases?  How can basic biases of overconfidence, extreme predictions and planning fallacy be controlled?  Recognize anchors, reframe problems, ...
-- Training to avoid System 1 errors? Recognize the signs that you are in a cognitive mindset, **slow down**, ask for System 2 reinforcement.
+- Training to avoid System 1 errors? recognize the signs that you are in a cognitive mindset, **slow down**, ask for System 2 reinforcement.
 - Organizations:
   - Decision Stages: Frame the problem to be solved -> collect the relevant information leading to a decision -> reflect -> review.
   - Organization improvement comes from routinely looking for efficiency improvements at each of these stages.  Iteratively; constant quality control and agility.

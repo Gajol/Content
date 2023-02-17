@@ -4,13 +4,31 @@
 
 [TOC]
 
+# Summary
 
+Vaclav Smil discusses in this book how four fundamental materials (Ammonia, Plastics, Steel and Cement) will limit the ability of us to move a world where 7,000,000,000 people live with the same standard of living at the current energy-consumption levels as Europe and North America.   Understanding globalization and the ironic tragedies it entails like Canada being abundant in trees yet importing toothpicks from China.  
+
+Smil discusses humans and governments inability to deal with risks, especially those with characteristics of climate warming; low-probability and high-impact risks (extreme weather, earthquakes, ..), and low-frequence / high-impact risks (pandemic).  Smil also highlights disproportionate responses to gun violence compared to terrorists attacks.
+
+Smil negates the EU's climate plan as wishful thinking considering the projection is EU citizens will consume 50% less energy in 25 years (2050).  And highlights the inability of democratic governments to make sustained long-term progress.
+
+Smil advises we should do immediately what is possible;
+
+- Raise efficiencies of homes and buildings
+
+> *"**Energy is Interesting**: because a satisfactory grasp of that vast field requires you to combine an understanding of physics, chemistry, biology, geology, and engineering with an attention to history and to social, economic, and political factors."*
+
+> *"An average inhabitant of the Earth nowadays has at their disposal nearly 700 times more useful energy than their ancestors had at the beginning of the 19th century."*
+
+> *"The economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services.” — Simply put, energy is the only truly universal currency - [Robert Ayres](https://en.wikipedia.org/wiki/Robert_Ayres_(scientist))*
 
 # 1. Understanding Energy
+
 In 2020, the average USA citizen consumes the same energy equivalent to having 240 adults working non-stop, day and night. 
 
-Energy:  The capacity for doing work.
-Forms of Energy: Kinetic, Heat, Elastic, Electrical, Chemical, Radiant, Nuclear, Mass
+- Energy:  The capacity for doing work.
+
+- Forms of Energy: Kinetic, Heat, Elastic, Electrical, Chemical, Radiant, Nuclear, Mass
 
 Energy Substitutions:
 
@@ -23,7 +41,7 @@ Energy Substitutions:
 
 ## Energy Density Ladder
 
-- see [Energy Density - Wikipedia](https://en.wikipedia.org/wiki/Energy_density)
+- [Energy Density - Wikipedia](https://en.wikipedia.org/wiki/Energy_density): *In physics, energy density is the amount of energy stored in a given system or region of space per unit volume. It is sometimes confused with energy per unit mass which is properly called specific energy or gravimetric energy density.*
 - Aviation Kerosene
 - Natural Gas: Natural gas (methane) is 3-orders of magnitude lower than that of aviation kerosene (a liquid fuel).  LIquid fuels have high-energy density.
 - Ocean liners did not burn wood because it would require 2.5X the volume of bituminous coal, and by 50% heaver.
@@ -611,7 +629,7 @@ The world is full of risk, but it is replete with wrong perceptions and irration
 Japan has the highest average longevity since the early 1980's with an 85 year life exepctancy.
 
 - Japan diet transformed in past 150 years.  Tradition diet pre 1900 was insufficient and resulted in short statuers.
-- Japan consumption of milk introduced in school lunches to ward against malnutrition, and white rice became abundant post WWII.  Seafood became abundant with world's largest fishing and whaling fleet.  Meat became part of Japanese dishes, and baked goods emerged.  Higher blookd cholesterol levels and blood pressure and body weight did not lead to heart disease and longevity increased.
+- Japan consumption of milk introduced in school lunches to ward against malnutrition, and white rice became abundant post WWII.  Seafood became abundant with world's largest fishing and whaling fleet.  Meat became part of Japanese dishes, and baked goods emerged.  Higher blood cholesterol levels and blood pressure and body weight did not lead to heart disease and longevity increased.
 - Japan and US have similar food consumption as of 2015.  Biggest differences are:
   - US males consume 45% more fat, women consume 30% more fat
   - US consume 70% more sugar
@@ -623,9 +641,9 @@ Japan has the highest average longevity since the early 1980's with an 85 year l
 
 ## Risks, Perceptions and Tolerances
 
-Analysis of Risks: Chauncey Starr 1969:
+Analysis of Risks: Chauncey Starr 1969 ([Social Benefit vs Technological Risk](https://www.science.org/doi/10.1126/science.165.3899.1232)):
 
-- voluntary and involuntary risks:  When people think that they are in control they engage in activities whose risks of serious injury or fatality may be a thousand-fold higher than th risk associated with such dreaded involuntary exposure as a terrorist attack in a large Western city.
+- voluntary and involuntary risks:  When people think that they are in control they engage in activities whose risks of serious injury or fatality may be a thousand-fold higher than the risk associated with such dreaded involuntary exposure as a terrorist attack in a large Western city.
 
 Contrasts:
 
@@ -805,7 +823,7 @@ Climate Change
 
 ### Wishful Thinking
 
-- EU researches assume per capti energy demand in 2050 will be 52% lower than in 2020 (globally).
+- EU researches assume per capita energy demand in 2050 will be 52% lower than in 2020 (globally).
   - In previous 30-years (1990-2020) demand has risen by 20%
   - EU basis on people moving away from consumption (owning goods), digitization and technical innovations to convert and store energy.
 - Princeton University study relies on a fourth pillar (carbon capture), but this assumes the ability to capture 2X the current US crude oil production.    The production-industry has grown for 160 years with trillions of dollars invested.[^5] 110,000km of CO<sub>2</sub> pipelines in Texas.
@@ -912,7 +930,7 @@ Persistence; Great Financial Crisis of 2007-2008
 
 > "An average inhabitant of the Earth nowadays has at their disposal nearly 700 times more useful energy than their ancestors had at the beginning of the 19th century."
 
-> "The economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services.”[23] Simply put, energy is the only truly universal currency - Robert Ayres
+> "The economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services.” — Simply put, energy is the only truly universal currency - Robert Ayres
 
 Doubt Everything: *De omnibus dubitandum* 
 

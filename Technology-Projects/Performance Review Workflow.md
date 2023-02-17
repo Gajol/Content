@@ -1,12 +1,12 @@
 # Performance Review Workflow
 
-Simple Workflow Manaagement
+Simple Workflow Management
 
 Goal:  Create a short-term solution that provides key functionality.
 
 | Feature                 | Platform           | Notes                                                        |
 | ----------------------- | ------------------ | ------------------------------------------------------------ |
-| Tasking                 | ServiceNow         | Every employee is assigned a task to complete their perforamnce and evaluation review (PER). |
+| Tasking                 | ServiceNow         | Every employee is assigned a task to complete their performance and evaluation review (PER). |
 | Worklow                 | ServiceNow         | The PER tasking is tracked in a basic workflow to understand the current state of the employee's PER |
 | Analytics               | ServiceNow         | Each workflow has metadata to allow for analytics based on organization structure (directorate, branch, supervisor). |
 | Workflow Administration | ServiceNow         | HR employees can manage requests to create, delete, revoke, roll-back PER workflows.   Requests are received through ServiceNow self-administration portal (ServicePlus) |
@@ -17,9 +17,9 @@ Goal:  Create a short-term solution that provides key functionality.
 
 PER Template:  Template stored centrally and available to all employees.
 
-Task: Every employee receives a task.  The task should describe the procedure (how to fulfil the task) and can also be a checklist. 
+Task: Every employee receives a task.  The task should describe the procedure (how to fulfil the task) and can also be a checklist.
 
-Woirkflow: General workflow is in the following stages:
+Workflow: General workflow is in the following stages:
 
 employee-supervisor stage:   tasks assigned to employee and their supervisor to complete the PER.  Upon completion the PER (a PDF document) is attached to the ServiceNow workflow.  
 
@@ -29,11 +29,11 @@ HR-talent-management stage:  HR TM reviews, approves and closes the tasking.  Th
 
 Concept:
 
-Someone will provide one or more lists of all the emplooyees to have PER reviews.   The list will include all the information needed to create the task.  This might include:
+Someone will provide one or more lists of all the employees to have PER reviews.   The list will include all the information needed to create the task.  This might include:
 
 - employee:  name, id, email
 - supervisor name:
-- hr tm prime or group: 
+- hr tm prime or group:
 
 Options:
 
@@ -52,7 +52,7 @@ ServiceNow Scripts:  [Scripting Best Practices](https://developer.servicenow.com
 
 Glide Functionality
 
-- Create a Javascript script that reads a CSV file and creates record in the "PER Task Table"
+- Create a JavaScript script that reads a CSV file and creates record in the "PER Task Table"
 
 Workflow
 
